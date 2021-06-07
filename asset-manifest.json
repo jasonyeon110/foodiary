@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodiar/static/css/main.6cd1b997.chunk.css",
+    "main.js": "/foodiar/static/js/main.fc8d4d25.chunk.js",
+    "main.js.map": "/foodiar/static/js/main.fc8d4d25.chunk.js.map",
+    "runtime-main.js": "/foodiar/static/js/runtime-main.ea03aa81.js",
+    "runtime-main.js.map": "/foodiar/static/js/runtime-main.ea03aa81.js.map",
+    "static/js/2.1ee0b26c.chunk.js": "/foodiar/static/js/2.1ee0b26c.chunk.js",
+    "static/js/2.1ee0b26c.chunk.js.map": "/foodiar/static/js/2.1ee0b26c.chunk.js.map",
+    "static/js/3.38c05592.chunk.js": "/foodiar/static/js/3.38c05592.chunk.js",
+    "static/js/3.38c05592.chunk.js.map": "/foodiar/static/js/3.38c05592.chunk.js.map",
+    "index.html": "/foodiar/index.html",
+    "static/css/main.6cd1b997.chunk.css.map": "/foodiar/static/css/main.6cd1b997.chunk.css.map",
+    "static/js/2.1ee0b26c.chunk.js.LICENSE.txt": "/foodiar/static/js/2.1ee0b26c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/foodiar/static/media/brooke-lark-wMzx2nBdeng-unsplash.2e01754c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea03aa81.js",
+    "static/js/2.1ee0b26c.chunk.js",
+    "static/css/main.6cd1b997.chunk.css",
+    "static/js/main.fc8d4d25.chunk.js"
+  ]
+}
